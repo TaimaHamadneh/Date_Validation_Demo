@@ -14,7 +14,7 @@ A simple C# class that validates and represents dates in the format `dd/mm/yyyy`
 
   ---
 
-  ## Requirements
+## Requirements
 
 Before running the project, make sure you have:
 
